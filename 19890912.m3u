@@ -93,7 +93,8 @@ https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/80000000
 https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="其他",五星体育 8M
 https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
-
+#EXTINF:-1 tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="http://live.cooltv.top/logo/ah2.png" group-title="地方",安徽经济生活
+http://live.cooltv.top/tv/anhui.php?id=ahjjs
 
 
 
